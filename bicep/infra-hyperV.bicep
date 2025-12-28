@@ -4,7 +4,7 @@ param nestedvirtuaLocation string = 'westeurope'
 param nestedvirtuaVnetName string = 'vnet-hyperv'
 param nestedvirtuaVnetAddressSpace string = '10.221.0.0/24'
 param nestedvirtuaDefaultSubnet string = '10.221.0.0/24'
-param nestedvirtualStorageAccountName string = 'diagstoragenestedvirtua001'
+param nestedvirtualStorageAccountName string = 'diagstoragenestedvirtuaer1'
 
 // VMs
 param VmSize string = 'Standard_E8s_v4'
